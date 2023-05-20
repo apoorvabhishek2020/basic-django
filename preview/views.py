@@ -3,4 +3,4 @@ from django.http import HttpResponse
 
 
 def home(request):
-    return HttpResponse("This is My Django View.")
+    return HttpResponse("<strong>SORRY TUNT</strong>")
